@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_blue">#ACE2FF</color>
+    <color name="light_lv2_blue">#1A98DC</color>
+    <color name="color_005cb9">#005cb9</color>
+    <color name="color_f85a44">#f85a44</color>
+    <color name="color_FF939191">#FF939191</color>
+    <color name="color_FFE4E4E4">#FFE4E4E4</color>
+    <color name="color_FFEAEAEA">#FFEAEAEA</color>
+    <color name="color_FF239116">#FF239116</color>
+    <color name="red">#F19595</color>
+    <color name="orange">#E8A571</color>
+    <color name="yellow">#FBEB99</color>
+    <color name="green">#92CA8B</color>
+    <color name="blue">#84A8CD</color>
+    <color name="deep_blue">#979EB5</color>
+    <color name="puple">#D392D1</color>
+    <color name="default_color">#DDDDDD</color>
+    <color name="translate">#00000000</color>
+
+    <color name="deep_yellow">#FFE500</color>
+
+    <color name="color_595959">#595959</color>
+
+    <color name="color_E6E6E6">#E6E6E6</color>
+
+    <color name="ibory">#FBF9EC</color>
+
+</resources>
