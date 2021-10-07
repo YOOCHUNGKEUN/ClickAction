@@ -25,9 +25,9 @@ class MainActivity : BaseActivity() {
     //목표는 350f
     //1초에 10f  < 1초에 20f < 1초에 25f < 1초에 30f
 
-    var Lv1Time = 40
-    var Lv2Time = 30
-    var Lv3Time = 25
+    var Lv1Time = 45
+    var Lv2Time = 35
+    var Lv3Time = 30
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -77,6 +77,7 @@ class MainActivity : BaseActivity() {
                 if(mMove==350f){
                     tv_title.setText("도전 성공!!!!!")
                     finishRowing()
+                    countDown.cancel()
                 }
                 ++mMove
             }
